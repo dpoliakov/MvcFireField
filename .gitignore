@@ -9,3 +9,7 @@
 
 ## Ignore bin directories
 bin/
+
+## Ignore NuGet packages
+packages/*
+*.nupkg
