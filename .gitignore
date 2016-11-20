@@ -9,6 +9,7 @@
 
 ## Ignore bin directories
 bin/
+obj/
 
 ## Ignore NuGet packages
 packages/*
